@@ -1,5 +1,7 @@
 # Pixel Pioneer (Prototyp - Abgebrochen)
 
+Das Repo enthält nur meine selbstgeschriebenen Skripte, also kein ganzes lauffähiges Projekt.
+
 ## Tastenkürzel
 **Q** - Baumenü 
 
