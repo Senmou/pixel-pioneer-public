@@ -9,6 +9,8 @@ Das Repo enth√§lt nur meine selbstgeschriebenen Skripte, also kein ganzes lauff√
 
 **Z** - Fliegen 
 
+**Rechtsklick** mit Spitzhacke an Wand festhalten
+
 ## Download (win x64)
 https://drive.google.com/file/d/1EPvVNYee6jz2MJpX3Pi_4xFWfBxMqE2y/view?usp=sharing
 
