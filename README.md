@@ -11,8 +11,11 @@ Das Repo enth√§lt nur meine selbstgeschriebenen Skripte, also kein ganzes lauff√
 
 **Rechtsklick** - mit Spitzhacke an Wand festhalten
 
-## Download (win x64)
+# Downloads
+## win x64
 https://drive.google.com/file/d/1EPvVNYee6jz2MJpX3Pi_4xFWfBxMqE2y/view?usp=sharing
+## linux x86_64
+https://drive.google.com/file/d/1K-RrpVBxMXiyZdA8kztps5I8Rr1omtrZ/view?usp=sharing
 
 ## Cheats
 
