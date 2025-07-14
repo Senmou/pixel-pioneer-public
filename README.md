@@ -1,4 +1,4 @@
-# Pixel Pioneer (Prototyp - Abgebrochen)
+# Pixel Pioneer (Prototyp - *Entwicklung eingestellt*)
 
 Das Repo enthält nur meine selbstgeschriebenen Skripte, also kein ganzes lauffähiges Projekt.
 
